@@ -18,10 +18,7 @@ button{
     height: 55px;
     border-radius: 24px;
 }
-.buttonC{
-    width: 90px;
-    height: 55px;
-}
+
 .calculator{
     display :inline-block;
     border :2px solid black;
